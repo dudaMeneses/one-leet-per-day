@@ -219,6 +219,7 @@ func binarySearch(arr, target) {
 | 8  | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)| :star: :star:        |
 | 9  | [Find All Duplicates in Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)| :star: :star:        |
 | 10 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| :star: :star:        |
+| 11 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| :star: :star: :star: |
 
 ---
 #### :construction: Could not solve yet
