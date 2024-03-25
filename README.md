@@ -220,6 +220,7 @@ func binarySearch(arr, target) {
 | 9  | [Find All Duplicates in Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)| :star: :star:        |
 | 10 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| :star: :star:        |
 | 11 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| :star: :star: :star: |
+| 12 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| :star: :star: |
 
 ---
 #### :construction: Could not solve yet
