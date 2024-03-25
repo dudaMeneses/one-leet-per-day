@@ -25,10 +25,6 @@ for l < r {
 }
 ```
 
-- [Two Sum](https://leetcode.com/problems/two-sum/)
-- [Remove Duplication From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
-
 ### Sliding Window
 
 > Sliding Window Technique is a method used to efficiently solve problems that involve defining a window or range in the input data (arrays or strings) and then moving that window across the data to perform some operation within the window
@@ -211,16 +207,18 @@ func binarySearch(arr, target) {
 
 ## Problems
 
-| # | Problem                                                                                                                       |
-|---|-------------------------------------------------------------------------------------------------------------------------------|
-| 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                 |
-| 2 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                             |
-| 3 | [Find All Possible Recipes From Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) |
-| 4 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)                             |
-| 5 | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/)                                           |
-| 6 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                             |
-| 7 | [Remove Duplication From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                    |
-| 8 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)                                         |
+| #  | Problem                                                                                                                       |
+|----|-------------------------------------------------------------------------------------------------------------------------------|
+| 1  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                 |
+| 2  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                             |
+| 3  | [Find All Possible Recipes From Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) |
+| 4  | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)                             |
+| 5  | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/)                                           |
+| 6  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                             |
+| 7  | [Remove Duplication From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                    |
+| 8  | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)                                         |
+| 9  | [Find All Duplicates in Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)                                 |
+| 10 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                         |
 
 ---
 #### Could not solve yet
