@@ -207,20 +207,20 @@ func binarySearch(arr, target) {
 
 ## Problems
 
-| #  | Problem                                                                                                                       |
-|----|-------------------------------------------------------------------------------------------------------------------------------|
-| 1  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                 |
-| 2  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                             |
-| 3  | [Find All Possible Recipes From Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) |
-| 4  | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)                             |
-| 5  | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/)                                           |
-| 6  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                             |
-| 7  | [Remove Duplication From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                    |
-| 8  | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)                                         |
-| 9  | [Find All Duplicates in Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)                                 |
-| 10 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                         |
+| #  | Problem | Difficulty           |
+|----|---------|----------------------|
+| 1  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| :star: :star:        |
+| 2  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)| :star: :star:        |
+| 3  | [Find All Possible Recipes From Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)| :star: :star:        |
+| 4  | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)| :star:               |
+| 5  | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/)| :star: :star: :star: |
+| 6  | [Two Sum](https://leetcode.com/problems/two-sum/)| :star:               |
+| 7  | [Remove Duplication From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| :star: :star:        |
+| 8  | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)| :star: :star:        |
+| 9  | [Find All Duplicates in Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)| :star: :star:        |
+| 10 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| :star: :star:        |
 
 ---
-#### Could not solve yet
+#### :construction: Could not solve yet
 
 - [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
