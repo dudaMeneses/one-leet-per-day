@@ -207,21 +207,22 @@ func binarySearch(arr, target) {
 
 ## Problems
 
-| #  | Problem | Difficulty           |
-|----|---------|----------------------|
-| 1  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| :star: :star:        |
-| 2  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)| :star: :star:        |
-| 3  | [Find All Possible Recipes From Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)| :star: :star:        |
-| 4  | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)| :star:               |
-| 5  | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/)| :star: :star: :star: |
-| 6  | [Two Sum](https://leetcode.com/problems/two-sum/)| :star:               |
-| 7  | [Remove Duplication From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| :star: :star:        |
-| 8  | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)| :star: :star:        |
-| 9  | [Find All Duplicates in Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)| :star: :star:        |
-| 10 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| :star: :star:        |
-| 11 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| :star: :star: :star: |
-| 12 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| :star: :star: |
-| 13 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| :star: :star:        |
+| #  | Problem                                                                                                                         | Difficulty          |
+|----|---------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| 1  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | :star: :star:       |
+| 2  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                               | :star: :star:       |
+| 3  | [Find All Possible Recipes From Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)   | :star: :star:       |
+| 4  | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)                               | :star:              |
+| 5  | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/)                                             | :star: :star: :star: |
+| 6  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | :star:              |
+| 7  | [Remove Duplication From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                      | :star: :star:       |
+| 8  | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | :star: :star:       |
+| 9  | [Find All Duplicates in Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)                                   | :star: :star:       |
+| 10 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | :star: :star:       |
+| 11 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       | :star: :star: :star: |
+| 12 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | :star: :star:       |
+| 13 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | :star: :star:       |
+| 14 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | :star :star         |
 
 ---
 #### :construction: Could not solve yet
